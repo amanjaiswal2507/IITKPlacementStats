@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #bbbbbb;
+	width: 100vw;
+    height: 100vh;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+/* .BtnWrapper{
+	width: 5rem;
+	height: 5rem;
+	background-color: red;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.Bar-1{
+	height: 5px;
+	width: 90%;
+	background-color: white;
+	border-radius: 2px;
+	position: absolute;
+	top: 25px;
+	transform: rotateZ(0deg);
+	transition: all 0.2s ease-in-out;
+}
+.Bar-2{
+	height: 5px;
+	width: 90%;
+	background-color: white;
+	display: block;
+	border-radius: 2px;
+	top: 40px;
+	position: absolute;
+	opacity: 1;
+	transition: all 0.2s;
+}
+.Bar-3{
+	height: 5px;
+	width: 90%;
+	background-color: white;
+	border-radius: 2px;
+	top: 55px;
+	position: absolute;
+	transform: rotateZ(0deg);
+	transition: all 0.2s ease-in-out;
+}
+.AddBar-1{
+	top: 37px;
+	left: 5px;
+	background-color: yellow;
+	transform: rotateZ(45deg);
+}
+.AddBar-2{
+	opacity: 0;
+}
+.AddBar-3{
+	top: 37px;
+	left: 5px;
+	background-color: yellow;
+	transform: rotateZ(-45deg);
+} */

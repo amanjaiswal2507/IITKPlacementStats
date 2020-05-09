@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+body{
+	margin: 0;
+	padding: 0;
+	background: url(deletelast.jpg);
+	background-position:bottom;
+	margin-bottom: 80%;
+	background-size: contain;
+	font-family: sans-serif;
+}
